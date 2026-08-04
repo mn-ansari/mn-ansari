@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+BUITEMS;IT+Officer+%40+BUITEMS+Developer+Club;Full+Stack+Developer+(React+%7C+Node+%7C+PHP);Building+ManageHub+-+My+Final+Year+Project;Exploring+AI+%2B+SaaS+with+LangChain+%26+RAG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Graduate+-+BUITEMS;Full+Stack+Developer+(React+%7C+Node+%7C+PHP);Built+ManageHub+-+My+Final+Year+Project;Exploring+AI+%2B+SaaS+with+LangChain+%26+RAG" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=followers&query=followers&url=https://api.github.com/users/YOUR_GITHUB_USERNAME&logo=github&color=0e75b6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=mn-ansari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=followers&query=followers&url=https://api.github.com/users/mn-ansari&logo=github&color=0e75b6" alt="followers" />
 </p>
 
 <p align="center">
@@ -19,37 +19,40 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **Software Engineering** student at **BUITEMS** (Balochistan University of IT, Engineering & Management Sciences)
-- 💼 Currently serving as **IT Officer** at the **BUITEMS Developer Club**
-- 🛠️ Working on **ManageHub** — a project management & productivity platform (Final Year Project)
+- 🎓 **Software Engineering** graduate from **BUITEMS** (Balochistan University of IT, Engineering & Management Sciences)
+- 💼 Former **IT Officer** at the BUITEMS Developer Club
+- 🛠️ Built **ManageHub** — a project management & productivity platform (Final Year Project)
 - 🤝 Part of a 3-person dev team delivering client projects, including an AI-integrated Cybersecurity SaaS bid (**SecureAI**) under **NextGen Tech Solutions**
 - 🎨 Also do product photography editing & content for tech/gaming accessory brands (**TrioTech**)
 - 🌱 Exploring AI-integrated SaaS ideas — RAG pipelines, LangChain, and multi-tenant support bots
-- 📫 Reach me on LinkedIn / Email (add your links below)
+- 📫 Reach me at **nassaransari@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/muhammad-nassar-538b781a5/)
+
+<p align="left">
+  <a href="mailto:nassaransari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-nassar-538b781a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mn-ansari&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,mysql,figma,blender,git,html,css,vscode&theme=dark&perline=6" />
+  </a>
 </p>
 
-**Design & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
-</p>
+<p align="center"><i>Hover-friendly, high-res icon set — renders identically for every visitor, no setup needed.</i></p>
 
 ---
 
@@ -75,11 +78,27 @@
 
 ---
 
+### 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mn-ansari&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mn-ansari&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn-ansari&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mn-ansari&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -87,7 +106,7 @@
 ### 🐍 Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mn-ansari/mn-ansari/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 > ⚙️ To enable this, add a GitHub Action to your profile repo (steps below the divider) — it auto-generates a snake that "eats" your contribution graph.
@@ -123,7 +142,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: mn-ansari
           outputs: |
             dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v4
