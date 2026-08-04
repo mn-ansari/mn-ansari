@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
+        with:github_user_name: mn-ansari
           outputs: |
             dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v4
