@@ -52,7 +52,6 @@
   </a>
 </p>
 
-<p align="center"><i>Hover-friendly, high-res icon set — renders identically for every visitor, no setup needed.</i></p>
 
 ---
 
