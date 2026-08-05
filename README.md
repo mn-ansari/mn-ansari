@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mn-ansari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=followers&query=followers&url=https://api.github.com/users/mn-ansari&logo=github&color=0e75b6" alt="followers" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mn-ansari.mn-ansari&color=0e75b6" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/mn-ansari?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
 </p>
 
 <p align="center">
@@ -81,13 +81,13 @@
 ### 🏅 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mn-ansari&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mn-ansari&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mn-ansari&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mn-ansari&show_icons=true&theme=radical&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn-ansari&theme=radical&hide_border=true" height="165" />
 </p>
 
@@ -120,3 +120,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" />
 
 ---
+
+
+</details>
