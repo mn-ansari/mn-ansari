@@ -109,7 +109,7 @@
   <img src="https://raw.githubusercontent.com/mn-ansari/mn-ansari/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚙️ To enable this, add a GitHub Action to your profile repo (steps below the divider) — it auto-generates a snake that "eats" your contribution graph.
+
 
 ---
 
@@ -120,40 +120,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" />
 
 ---
-
-<details>
-<summary>🐍 How to activate the snake animation (click to expand)</summary>
-
-1. In your <code>mn-ansari/mn-ansari</code> repo, go to **Actions** tab → **New workflow** → **set up a workflow yourself**
-2. Name the file <code>snake.yml</code> and paste this:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mn-ansari
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit → go to **Actions** → run it manually once (**Run workflow**)
-4. Wait ~1 minute, then refresh your profile — the snake will appear
-
-</details>
