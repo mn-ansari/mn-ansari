@@ -78,22 +78,10 @@
 
 ---
 
-### 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mn-ansari&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" />
-</p>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mn-ansari&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn-ansari&theme=radical&hide_border=true" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mn-ansari&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
 
 ### 💬 Random Dev Quote
 
