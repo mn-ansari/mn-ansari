@@ -81,7 +81,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mn-ansari&show_icons=true&theme=radical&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn-ansari&theme=radical&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mn-ansari&layout=compact&theme=radical&hide_border=true" height="165" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mn-ansari&theme=radical&hide_border=true" height="165" /> </p>
 
 ### 💬 Random Dev Quote
 
