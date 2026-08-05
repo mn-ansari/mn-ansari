@@ -106,7 +106,11 @@
 ### 🐍 Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mn-ansari/mn-ansari/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mn-ansari/mn-ansari/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mn-ansari/mn-ansari/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mn-ansari/mn-ansari/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 
@@ -120,6 +124,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" />
 
 ---
+
 
 
 </details>
